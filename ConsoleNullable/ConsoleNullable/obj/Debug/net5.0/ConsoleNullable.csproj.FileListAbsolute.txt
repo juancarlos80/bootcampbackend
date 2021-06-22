@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ConsoleNullable.exe
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ConsoleNullable.deps.json
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ConsoleNullable.runtimeconfig.json
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ConsoleNullable.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ConsoleNullable.dll
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ref\ConsoleNullable.dll
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\bin\Debug\net5.0\ConsoleNullable.pdb
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.dll
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ref\ConsoleNullable.dll
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.pdb
+L:\DotNet\bootcampbackend\ConsoleNullable\ConsoleNullable\obj\Debug\net5.0\ConsoleNullable.genruntimeconfig.cache
