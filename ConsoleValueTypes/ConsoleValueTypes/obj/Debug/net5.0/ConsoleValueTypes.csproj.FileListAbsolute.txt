@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ConsoleValueTypes.exe
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ConsoleValueTypes.deps.json
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ConsoleValueTypes.runtimeconfig.json
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ConsoleValueTypes.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ConsoleValueTypes.dll
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ref\ConsoleValueTypes.dll
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\bin\Debug\net5.0\ConsoleValueTypes.pdb
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.dll
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ref\ConsoleValueTypes.dll
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.pdb
+L:\DotNet\bootcampbackend\ConsoleValueTypes\ConsoleValueTypes\obj\Debug\net5.0\ConsoleValueTypes.genruntimeconfig.cache
