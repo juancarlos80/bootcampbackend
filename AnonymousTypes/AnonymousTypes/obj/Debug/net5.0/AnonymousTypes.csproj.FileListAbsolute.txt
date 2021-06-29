@@ -1,0 +1,16 @@
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.exe
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.deps.json
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.runtimeconfig.json
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.runtimeconfig.dev.json
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.dll
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\ref\AnonymousTypes.dll
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\bin\Debug\net5.0\AnonymousTypes.pdb
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.csproj.AssemblyReference.cache
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.AssemblyInfoInputs.cache
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.AssemblyInfo.cs
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.dll
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\ref\AnonymousTypes.dll
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.pdb
+L:\DotNet\learnDotNet\AnonymousTypes\AnonymousTypes\obj\Debug\net5.0\AnonymousTypes.genruntimeconfig.cache
