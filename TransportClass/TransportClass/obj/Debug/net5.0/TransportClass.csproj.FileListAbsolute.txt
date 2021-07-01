@@ -1,0 +1,16 @@
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\TransportClass.exe
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\TransportClass.deps.json
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\TransportClass.runtimeconfig.json
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\TransportClass.runtimeconfig.dev.json
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\TransportClass.dll
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\ref\TransportClass.dll
+L:\DotNet\learnDotNet\TransportClass\TransportClass\bin\Debug\net5.0\TransportClass.pdb
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.csproj.AssemblyReference.cache
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.AssemblyInfoInputs.cache
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.AssemblyInfo.cs
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.csproj.CoreCompileInputs.cache
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.dll
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\ref\TransportClass.dll
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.pdb
+L:\DotNet\learnDotNet\TransportClass\TransportClass\obj\Debug\net5.0\TransportClass.genruntimeconfig.cache
