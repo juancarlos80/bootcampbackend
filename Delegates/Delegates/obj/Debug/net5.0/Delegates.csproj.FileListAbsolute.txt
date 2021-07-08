@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\Delegates.exe
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\Delegates.deps.json
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.json
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\Delegates.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\Delegates.dll
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\ref\Delegates.dll
+L:\DotNet\bootcampbackend\Delegates\Delegates\bin\Debug\net5.0\Delegates.pdb
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.dll
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\ref\Delegates.dll
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.pdb
+L:\DotNet\bootcampbackend\Delegates\Delegates\obj\Debug\net5.0\Delegates.genruntimeconfig.cache
