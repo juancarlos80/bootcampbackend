@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ExtensionFunction.exe
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ExtensionFunction.deps.json
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ExtensionFunction.runtimeconfig.json
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ExtensionFunction.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ExtensionFunction.dll
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ref\ExtensionFunction.dll
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\bin\Debug\net5.0\ExtensionFunction.pdb
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.dll
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ref\ExtensionFunction.dll
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.pdb
+L:\DotNet\bootcampbackend\ExtensionFunction\ExtensionFunction\obj\Debug\net5.0\ExtensionFunction.genruntimeconfig.cache
