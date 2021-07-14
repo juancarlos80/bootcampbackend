@@ -48,7 +48,7 @@ namespace Delegates
             Expression expresion = new Expression(10, 20);            
 
             var result = expresion.ApplyOperator(expresion.Sum);
-            Console.WriteLine($"Result of operarion: {result}");
+            Console.WriteLine($"Result of operarionss: {result}");
 
         }
     }
