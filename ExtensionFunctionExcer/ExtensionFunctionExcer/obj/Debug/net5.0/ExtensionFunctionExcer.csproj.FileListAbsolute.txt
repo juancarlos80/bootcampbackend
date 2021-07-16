@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ExtensionFunctionExcer.exe
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ExtensionFunctionExcer.deps.json
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ExtensionFunctionExcer.runtimeconfig.json
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ExtensionFunctionExcer.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ExtensionFunctionExcer.dll
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ref\ExtensionFunctionExcer.dll
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\bin\Debug\net5.0\ExtensionFunctionExcer.pdb
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.dll
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ref\ExtensionFunctionExcer.dll
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.pdb
+L:\DotNet\bootcampbackend\ExtensionFunctionExcer\ExtensionFunctionExcer\obj\Debug\net5.0\ExtensionFunctionExcer.genruntimeconfig.cache
