@@ -25,7 +25,9 @@ namespace ReflectionExample
 
             if (fieldInfo != null)
             {
-                Console.WriteLine("El valor actual de la variable: " + fieldInfo.Name + " es: " + fieldInfo.GetValue(t) + ". Ingresa el nuevo valor:");
+                Console.WriteLine("El valor actual de la variable: {0} es {1} Ingresa el nuevo valor: ",
+                    fieldInfo.Name,
+                    fieldInfo.GetValue(t));
                 string newValue = Console.ReadLine();
                 int newInt;
                 if (int.TryParse(newValue, out newInt))
