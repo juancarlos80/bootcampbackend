@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ReflectionExample.exe
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ReflectionExample.deps.json
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ReflectionExample.runtimeconfig.json
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ReflectionExample.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ReflectionExample.dll
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ref\ReflectionExample.dll
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\bin\Debug\net5.0\ReflectionExample.pdb
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.dll
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ref\ReflectionExample.dll
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.pdb
+L:\DotNet\bootcampbackend\ReflectionExample\ReflectionExample\obj\Debug\net5.0\ReflectionExample.genruntimeconfig.cache
