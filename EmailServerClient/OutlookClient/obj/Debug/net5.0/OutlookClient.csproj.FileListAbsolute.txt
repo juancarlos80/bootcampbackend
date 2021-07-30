@@ -1,0 +1,16 @@
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.exe
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.deps.json
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.runtimeconfig.json
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.runtimeconfig.dev.json
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.dll
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\ref\OutlookClient.dll
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\bin\Debug\net5.0\OutlookClient.pdb
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.csproj.AssemblyReference.cache
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.AssemblyInfoInputs.cache
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.AssemblyInfo.cs
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.csproj.CoreCompileInputs.cache
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.dll
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\ref\OutlookClient.dll
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.pdb
+L:\DotNet\learnDotNet\OutlookClient\OutlookClient\obj\Debug\net5.0\OutlookClient.genruntimeconfig.cache
