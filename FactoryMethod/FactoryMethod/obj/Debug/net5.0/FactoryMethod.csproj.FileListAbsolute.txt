@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.exe
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.deps.json
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.json
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.dll
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\ref\FactoryMethod.dll
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\bin\Debug\net5.0\FactoryMethod.pdb
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.dll
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\ref\FactoryMethod.dll
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.pdb
+L:\DotNet\bootcampbackend\FactoryMethod\FactoryMethod\obj\Debug\net5.0\FactoryMethod.genruntimeconfig.cache
