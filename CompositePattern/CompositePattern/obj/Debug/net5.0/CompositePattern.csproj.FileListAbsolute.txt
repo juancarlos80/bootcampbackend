@@ -1,0 +1,16 @@
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.exe
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.deps.json
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.json
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.runtimeconfig.dev.json
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.dll
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\ref\CompositePattern.dll
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\bin\Debug\net5.0\CompositePattern.pdb
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.AssemblyReference.cache
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfoInputs.cache
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.AssemblyInfo.cs
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.csproj.CoreCompileInputs.cache
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.dll
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\ref\CompositePattern.dll
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.pdb
+L:\DotNet\bootcampbackend\CompositePattern\CompositePattern\obj\Debug\net5.0\CompositePattern.genruntimeconfig.cache
