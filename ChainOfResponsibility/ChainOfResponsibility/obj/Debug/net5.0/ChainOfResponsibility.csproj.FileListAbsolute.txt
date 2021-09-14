@@ -1,0 +1,16 @@
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.exe
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.deps.json
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.json
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.runtimeconfig.dev.json
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.dll
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ref\ChainOfResponsibility.dll
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\net5.0\ChainOfResponsibility.pdb
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.AssemblyReference.cache
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfoInputs.cache
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.AssemblyInfo.cs
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.dll
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ref\ChainOfResponsibility.dll
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.pdb
+l:\BootCamp\Backend\Material\BootCamp\DesignPatterns\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\net5.0\ChainOfResponsibility.genruntimeconfig.cache
