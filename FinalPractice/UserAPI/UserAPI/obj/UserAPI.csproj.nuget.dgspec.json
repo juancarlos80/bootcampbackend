@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\DotNet\\learnDotNet\\UserAPI\\UserAPI\\UserAPI.csproj": {}
+    "l:\\DotNet\\bootcampbackend\\FinalPractice\\UserAPI\\UserAPI\\UserAPI.csproj": {}
   },
   "projects": {
-    "L:\\DotNet\\learnDotNet\\UserAPI\\UserAPI\\UserAPI.csproj": {
+    "l:\\DotNet\\bootcampbackend\\FinalPractice\\UserAPI\\UserAPI\\UserAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\DotNet\\learnDotNet\\UserAPI\\UserAPI\\UserAPI.csproj",
+        "projectUniqueName": "l:\\DotNet\\bootcampbackend\\FinalPractice\\UserAPI\\UserAPI\\UserAPI.csproj",
         "projectName": "UserAPI",
-        "projectPath": "L:\\DotNet\\learnDotNet\\UserAPI\\UserAPI\\UserAPI.csproj",
+        "projectPath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\UserAPI\\UserAPI\\UserAPI.csproj",
         "packagesPath": "C:\\Users\\JuanCarlos\\.nuget\\packages\\",
-        "outputPath": "L:\\DotNet\\learnDotNet\\UserAPI\\UserAPI\\obj\\",
+        "outputPath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\UserAPI\\UserAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JuanCarlos\\AppData\\Roaming\\NuGet\\NuGet.Config",

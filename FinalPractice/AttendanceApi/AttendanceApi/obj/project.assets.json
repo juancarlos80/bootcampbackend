@@ -1133,11 +1133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "l:\\DotNet\\bootcampbackend\\AttendanceApi\\AttendanceApi\\AttendanceApi.csproj",
+      "projectUniqueName": "l:\\DotNet\\bootcampbackend\\FinalPractice\\AttendanceApi\\AttendanceApi\\AttendanceApi.csproj",
       "projectName": "AttendanceApi",
-      "projectPath": "l:\\DotNet\\bootcampbackend\\AttendanceApi\\AttendanceApi\\AttendanceApi.csproj",
+      "projectPath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\AttendanceApi\\AttendanceApi\\AttendanceApi.csproj",
       "packagesPath": "C:\\Users\\JuanCarlos\\.nuget\\packages\\",
-      "outputPath": "l:\\DotNet\\bootcampbackend\\AttendanceApi\\AttendanceApi\\obj\\",
+      "outputPath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\AttendanceApi\\AttendanceApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JuanCarlos\\AppData\\Roaming\\NuGet\\NuGet.Config",

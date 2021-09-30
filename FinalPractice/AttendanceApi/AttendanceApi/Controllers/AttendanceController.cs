@@ -13,22 +13,22 @@ namespace AttendanceApi.Controllers
     [ApiController]
     public class AttendanceController : ControllerBase
     {
-        private readonly AttendanceService _attendanceService;
+        private readonly AttendanceService attendanceService;
 
         public AttendanceController(AttendanceService attendanceService)
         {
-            _attendanceService = attendanceService;
+            this.attendanceService = attendanceService;
 
         }
 
         [HttpGet]
         public ActionResult<List<Attendance>> Get() =>
-            _attendanceService.Get();
+            attendanceService.Get();
 
-        [HttpGet("{id:length(24)}", Name = "GetBook")]
+        [HttpGet("{id:length(24)}", Name = "GetAttendance")]
         public ActionResult<Attendance> Get(string id)
         {
-            var attendance = _attendanceService.Get(id);
+            var attendance = attendanceService.Get(id);
 
             if (attendance == null)
             {
@@ -41,7 +41,7 @@ namespace AttendanceApi.Controllers
         [HttpGet("user/{id}")]
         public ActionResult<List<Attendance>> GetUserAttendances(int id)
         {
-            var attendance = _attendanceService.GetUserAttendances(id);
+            var attendance = attendanceService.GetUserAttendances(id);
 
             if (attendance == null)
             {
@@ -54,25 +54,27 @@ namespace AttendanceApi.Controllers
         [HttpPost]
         public ActionResult<Attendance> Create(Attendance attendance)
         {
-            _attendanceService.Create(attendance);
-
-            //Call to Update the total attendace in user API 
+            attendanceService.Create(attendance);
+            
             UpdateAttendances(attendance.UserId);
 
-            return CreatedAtRoute("GetBook", new { id = attendance.Id.ToString() }, attendance);
+            return CreatedAtRoute(
+                "GetAttendance", 
+                new { id = attendance.Id.ToString() }, 
+                attendance);
         }        
 
         [HttpPut("{id:length(24)}")]
         public IActionResult Update(string id, Attendance attendanceIn)
         {
-            var attendance = _attendanceService.Get(id);
+            var attendance = attendanceService.Get(id);
 
             if (attendance == null)
             {
                 return NotFound();
             }
 
-            _attendanceService.Update(id, attendanceIn);
+            attendanceService.Update(id, attendanceIn);
 
             return NoContent();
         }
@@ -86,14 +88,18 @@ namespace AttendanceApi.Controllers
 
             if (currentUser.HasClaim(c => c.Type == "id"))
             {
-                userId = Int32.Parse(currentUser.Claims.FirstOrDefault(c => c.Type == "id").Value);
+                userId = Int32.Parse(
+                    currentUser
+                    .Claims
+                    .FirstOrDefault(c => c.Type == "id")
+                    .Value);
             }
 
             if (userId == 0 ) {
                 return NotFound("Without Authorize");
             }
 
-            var attendance = _attendanceService.Get(id);
+            var attendance = attendanceService.Get(id);
 
             if (attendance == null)
             {
@@ -105,7 +111,7 @@ namespace AttendanceApi.Controllers
                 return NotFound("Without Authorize");
             }
 
-            _attendanceService.Remove(attendance.Id);
+            attendanceService.Remove(attendance.Id);
             
             UpdateAttendances(userId);
 
@@ -115,39 +121,19 @@ namespace AttendanceApi.Controllers
         [HttpDelete("user/{userId}")]
         public IActionResult DeleteAllUser(int userId)
         {
-            _attendanceService.RemoveUserId(userId);
+            attendanceService.RemoveUserId(userId);
             return NoContent();
         }
 
         [ApiExplorerSettings(IgnoreApi = true)]
         public void UpdateAttendances(int userId)
         {
-            var total_attendance = _attendanceService
+            var total_attendance = attendanceService
                 .GetUserAttendances(userId)
                 .Count();
 
             ProducerRabbit producer = new ProducerRabbit();
             producer.NotifyUpdate(userId, total_attendance);
-        }
-
-        /*[HttpGet("login")]
-        [Authorize]
-        public ActionResult<IEnumerable<string>> GetLogin()
-        {
-            var currentUser = HttpContext.User;
-            string id = "";
-            string name = "";
-
-            if (currentUser.HasClaim(c => c.Type == "id"))
-            {
-                id = currentUser.Claims.FirstOrDefault(c => c.Type == "id").Value;
-            }
-            if (currentUser.HasClaim(c => c.Type == "id"))
-            {
-                name = currentUser.Claims.FirstOrDefault(c => c.Type == "name").Value;
-            }
-
-            return new string[] { id, name };
-        }*/
+        }        
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7kRwfEZp4ZDv0voayZC8k2GHJmmTiNV8dQjY1eGYwPNr+FgCV2yk4pDxjmaOGYy8vgnmHEVBpQEYyaBnRQDpVQ==",
+  "dgSpecHash": "6tjlOQza+tgvjZzaE5lfMJ5fg0p6aB+mtOZmReYBTzYUr4hE/otwQSbhWZNnyvy76ErnZW1KAjpKlgW7WICOow==",
   "success": true,
-  "projectFilePath": "L:\\DotNet\\learnDotNet\\UserAPI\\UserAPI\\UserAPI.csproj",
+  "projectFilePath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\UserAPI\\UserAPI\\UserAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuanCarlos\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\JuanCarlos\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

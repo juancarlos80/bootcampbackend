@@ -1,16 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Net;
-using System.Text;
 using System.Threading.Tasks;
 using AutoMapper;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using Newtonsoft.Json;
-using RabbitMQ.Client;
 using UserAPI.DTO;
 using UserAPI.Models;
 using UserAPI.Security;
@@ -199,30 +194,12 @@ namespace UserAPI.Controllers
 
             if (userAuthentication is not null)
             {
-                return this.jwtToken.SignToken(userAuthentication, this.configuration);
+                return this.jwtToken.SignToken(
+                    userAuthentication, 
+                    this.configuration);
             }
 
             return this.BadRequest();
-        }
-
-        /*[HttpGet("login")]
-        [Authorize]
-        public ActionResult<IEnumerable<string>> Get()
-        {            
-            var currentUser = HttpContext.User;
-            string id = "";
-            string name = "";
-
-            if (currentUser.HasClaim(c => c.Type == "id"))
-            {
-                id = currentUser.Claims.FirstOrDefault(c => c.Type == "id").Value;
-            }
-            if (currentUser.HasClaim(c => c.Type == "id"))
-            {
-                name = currentUser.Claims.FirstOrDefault(c => c.Type == "name").Value;
-            }
-
-            return new string[] { id, name };
-        }*/
+        }        
     }
 }

@@ -32,13 +32,13 @@ namespace StatsService
             var rabbitMqConnection = factory.CreateConnection();
 
             
-            listenDeleteUser(rabbitMqConnection);
-            listenUpdateAttendances(rabbitMqConnection);            
+            ListenDeleteUser(rabbitMqConnection);
+            ListenUpdateAttendances(rabbitMqConnection);            
 
             Console.ReadLine();
         }
 
-        public static void listenDeleteUser(IConnection rabbitMqConnection)
+        public static void ListenDeleteUser(IConnection rabbitMqConnection)
         {
             var rabbitMqChannelDelete = rabbitMqConnection.CreateModel();
             rabbitMqChannelDelete.QueueDeclare(queue: DELETE_QUEUE,
@@ -53,22 +53,22 @@ namespace StatsService
             consumer.Received += (model, args) =>
             {
                 var body = args.Body;
-                var message = Encoding.UTF8.GetString(body.ToArray());
-                Console.WriteLine("Delete user: "+ message);
+                var idUser = Encoding.UTF8.GetString(body.ToArray());
 
-                //Call to delete the attendances for the user
-                var wb = new WebClient();
-                string url = "https://localhost:5011/attendances/user/" + message;
-                var response = wb.UploadValues(url, "DELETE", new NameValueCollection());
-
-                rabbitMqChannelDelete.BasicAck(deliveryTag: args.DeliveryTag, multiple: false);                
+                ApiService.DeleteAttendances(idUser);
+                
+                    rabbitMqChannelDelete.BasicAck(
+                        deliveryTag: args.DeliveryTag, 
+                        multiple: false);
+                
+                
             };
             rabbitMqChannelDelete.BasicConsume(queue: DELETE_QUEUE,
                                          autoAck: false,
                                          consumer: consumer);
         }
 
-        public static void listenUpdateAttendances(IConnection rabbitMqConnection)
+        public static void ListenUpdateAttendances(IConnection rabbitMqConnection)
         {
             var rabbitMqChannelInsert = rabbitMqConnection.CreateModel();
             rabbitMqChannelInsert.QueueDeclare(queue: UPDATE_ATTENDANCE_QUEUE,
@@ -83,27 +83,15 @@ namespace StatsService
             consumerI.Received += (model, args) =>
             {
                 var body = args.Body;
-                var message = Encoding.UTF8.GetString(body.ToArray());
-                Console.WriteLine("Update Attendances: " + message);
-                JObject json_response = JObject.Parse(message);
+                var message = Encoding.UTF8.GetString(body.ToArray());                
 
-                //Call to delete the attendances for the user                               
-                string url = "https://localhost:5001/users/" + json_response.GetValue("Id") + "/attendance";                
-
-                HttpWebRequest request = WebRequest.CreateHttp(url);
-                request.Method = "PUT";
-                request.AllowWriteStreamBuffering = false;
-                request.ContentType = "application/json";
-                request.Accept = "Accept=application/json";
-                request.SendChunked = false;
-                request.ContentLength = message.Length;
-                using (var writer = new StreamWriter(request.GetRequestStream()))
-                {
-                    writer.Write(message);
-                }
-                var response = request.GetResponse() as HttpWebResponse;
-
-                rabbitMqChannelInsert.BasicAck(deliveryTag: args.DeliveryTag, multiple: false);                
+                ApiService.UpdateAttendance(message);
+                
+                    rabbitMqChannelInsert.BasicAck(
+                        deliveryTag: args.DeliveryTag, 
+                        multiple: false);
+                
+                
             };
             rabbitMqChannelInsert.BasicConsume(queue: UPDATE_ATTENDANCE_QUEUE,
                                          autoAck: false,

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6l6BtnbRLRiPT/8aofGHD7RQEZYCd1PbUmTcKv3ajpsiT4b03Y4KKNxTF2xnFzFrNKai51Y0+Tiu/Nfao6wgjA==",
+  "dgSpecHash": "RfKXeR1yic030XUt2CbAgfFhOHU7oZMbsjuK/O9n+5EHJ7DVn2YJF7y9ia6D+eTa/a9J5HQ1aZmEWHYNf7ZjHg==",
   "success": true,
-  "projectFilePath": "l:\\DotNet\\bootcampbackend\\StatsService\\StatsService\\StatsService.csproj",
+  "projectFilePath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\StatsService\\StatsService\\StatsService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuanCarlos\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\JuanCarlos\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",

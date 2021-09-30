@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NCuRefXEUTs4lxt/oo7z4b0JnKYdatkhByCk0FMohT8D1KRCv44zUQTYu2TaPvFGUFuAbgBx5gkpaBEygG+Qag==",
+  "dgSpecHash": "x13acOjhppeLzNfO8zinkbRscha4Ncma59KxQfWUl8WaXGz44i2dhBJ4V4y+PLbbrIwPFH0hdQk/1+RxvyOavg==",
   "success": true,
-  "projectFilePath": "l:\\DotNet\\bootcampbackend\\AttendanceApi\\AttendanceApi\\AttendanceApi.csproj",
+  "projectFilePath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\AttendanceApi\\AttendanceApi\\AttendanceApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\JuanCarlos\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\JuanCarlos\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.10\\microsoft.aspnetcore.authentication.jwtbearer.5.0.10.nupkg.sha512",

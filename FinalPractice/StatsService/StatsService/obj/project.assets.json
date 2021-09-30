@@ -151,11 +151,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "l:\\DotNet\\bootcampbackend\\StatsService\\StatsService\\StatsService.csproj",
+      "projectUniqueName": "l:\\DotNet\\bootcampbackend\\FinalPractice\\StatsService\\StatsService\\StatsService.csproj",
       "projectName": "StatsService",
-      "projectPath": "l:\\DotNet\\bootcampbackend\\StatsService\\StatsService\\StatsService.csproj",
+      "projectPath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\StatsService\\StatsService\\StatsService.csproj",
       "packagesPath": "C:\\Users\\JuanCarlos\\.nuget\\packages\\",
-      "outputPath": "l:\\DotNet\\bootcampbackend\\StatsService\\StatsService\\obj\\",
+      "outputPath": "l:\\DotNet\\bootcampbackend\\FinalPractice\\StatsService\\StatsService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JuanCarlos\\AppData\\Roaming\\NuGet\\NuGet.Config",
